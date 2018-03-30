@@ -15,3 +15,5 @@ https://docs.microsoft.com/pt-br/azure/iot-hub/iot-hub-sparkfun-esp8266-thing-de
 https://github.com/Azure-Samples/iot-hub-SparkFun-ThingDev-client-app.git
 
 https://docs.microsoft.com/pt-br/azure/iot-hub/iot-hub-live-data-visualization-in-power-bi
+
+https://docs.microsoft.com/pt-br/azure/iot-hub/iot-hub-live-data-visualization-in-web-apps
